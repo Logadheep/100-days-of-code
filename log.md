@@ -4,8 +4,20 @@
 
 **Link to work**: [Code](https://github.com/Logadheep/100-days-of-code/Day_1/)
 
-#### Day 1 : January 28, 2022
+#### Day 2 : January 28, 2022
 
 **Today's Progress**: Solved some problems from the 3rd Chapter of Ansi C Programming book. Felt better than Day 1
+
+**Link to work**: [Code](https://github.com/Logadheep/100-days-of-code/Day_2/)
+
+#### Day 3 : January 29, 2022
+
+**Today's Progress**: Solved some problems from the 3rd Chapter of Ansi C Programming book. But was a bit tougher than day2
+
+**Link to work**: [Code](https://github.com/Logadheep/100-days-of-code/Day_2/)
+
+#### Day 4 : January 30, 2022
+
+**Today's Progress**: Completed solving problems from the 3rd Chapter of Ansi C Programming book. Felt better than Day 1
 
 **Link to work**: [Code](https://github.com/Logadheep/100-days-of-code/Day_2/)
