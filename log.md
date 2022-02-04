@@ -45,3 +45,9 @@
 **Today's Progress**: Solving problems from the same chapter. Using my laptop ignoring those issues I face.
 
 **Link to work**: [Code](https://github.com/Logadheep/100-days-of-code/Day_8/)
+
+#### Day 9 : February 4, 2022
+
+**Today's Progress**: Solving another exercise from 4th chapter of the book
+
+**Link to work**: [Code](https://github.com/Logadheep/100-days-of-code/Day_9/)
