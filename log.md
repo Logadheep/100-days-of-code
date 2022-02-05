@@ -51,3 +51,11 @@
 **Today's Progress**: Solving another exercise from 4th chapter of the book
 
 **Link to work**: [Code](https://github.com/Logadheep/100-days-of-code/Day_9/)
+
+#### Day 9 : February 4, 2022
+
+**Today's Progress**: Solving another exercise from 4th chapter of the book.
+Did not have much time today as I have to move to hostel. Just Solved Solved problem. 
+Tho I read a chapter from the book
+
+**Link to work**: [Code](https://github.com/Logadheep/100-days-of-code/Day_10)
