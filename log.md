@@ -52,10 +52,22 @@
 
 **Link to work**: [Code](https://github.com/Logadheep/100-days-of-code/Day_9/)
 
-#### Day 9 : February 4, 2022
+#### Day 10 : February 5, 2022
 
 **Today's Progress**: Solving another exercise from 4th chapter of the book.
 Did not have much time today as I have to move to hostel. Just Solved Solved problem. 
 Tho I read a chapter from the book
 
 **Link to work**: [Code](https://github.com/Logadheep/100-days-of-code/Day_10)
+
+#### Day 11 : February 6, 2022
+
+**Today's Progress**: Did not have much time today as I have to move to hostel. Just Solved Solved problem. 
+Though I learnt some from the book
+
+**Link to work**: [Code](https://github.com/Logadheep/100-days-of-code/Day_11)
+
+#### Day 12 : February 7, 2022
+
+**Today's Progress**: Had some big jobs to be done. But managed to steal some time from my schedule today. Due to college works I do not have much time hereafter.
+**Link to work**: [Code](https://github.com/Logadheep/100-days-of-code/Day_12)
