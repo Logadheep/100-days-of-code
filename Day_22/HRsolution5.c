@@ -1,9 +1,11 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 void update(int *a,int *b) {
     // Complete this function 
-    a = (*a) + (*b); 
-    b = (*a) - (*b);         
+    int temp = *a;
+    *a = (*a) + (*b); 
+    *b = abs((temp) - (*b));         
 }
 
 int main() {
