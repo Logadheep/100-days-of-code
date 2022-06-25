@@ -6,7 +6,7 @@
     	char ch;
     	struct node *next;
     	struct node *prev;
-    }  *stack[11];
+    }*stack[11];
     typedef struct node node;
      
     void push(node *str)
