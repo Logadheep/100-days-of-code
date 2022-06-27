@@ -49,6 +49,6 @@ int main()
 	string exp;
 	cin>>exp;
 	string s = getInfix(exp);
-	cout<<s;
+	cout<<(char*)s;
 	return 0;
 }
